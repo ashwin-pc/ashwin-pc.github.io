@@ -1,6 +1,3 @@
-# Ashwin's GitHub Page
+# Hey guys!
 
-This repository powers [ashwin-pc.github.io](https://ashwin-pc.github.io).
-
-The landing page fetches profile information and recent projects from the GitHub API, dynamically tinting the theme to match the profile picture.
-Sections and project cards sit on a subtle glassmorphic layer with animated reveals.
+Visit [designedbyashw.in](http://designedbyashw.in) to see my main page
