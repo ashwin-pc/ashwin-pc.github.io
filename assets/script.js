@@ -20,7 +20,7 @@ function deriveAccentFromImage(img) {
   document.documentElement.style.setProperty('--bg1', `rgb(${(r * 0.1) | 0}, ${(g * 0.1) | 0}, ${(b * 0.1) | 0})`);
   document.documentElement.style.setProperty('--bg2', `rgb(${(r * 0.25) | 0}, ${(g * 0.25) | 0}, ${(b * 0.25) | 0})`);
   document.documentElement.style.setProperty('--bg3', `rgb(${(r * 0.5) | 0}, ${(g * 0.5) | 0}, ${(b * 0.5) | 0})`);
-  document.documentElement.style.setProperty('--bg4', `rgb(${(r * 0.25) | 0}, ${(g * 0.25) | 0}, ${(b * 0.25) | 0})`);
+  document.documentElement.style.setProperty('--bg4', `rgb(${(r * 0.1) | 0}, ${(g * 0.1) | 0}, ${(b * 0.1) | 0})`);
 }
 
 async function fetchProfile() {
